@@ -1,0 +1,2 @@
+here is my first txt file on try git
+here is anothr change after git add
